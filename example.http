@@ -1,0 +1,32 @@
+GET http://localhost:4000/drafts/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5MzgxMzIwNywiZXhwIjoxNjkzODE2ODA3LCJzdWIiOiIxIn0.0_kEVq8OZWcww7Go91oUXG3WYbTkjUzzve5X-rurhx4
+
+###
+GET http://localhost:4000/drafts/?userId=2
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5MzgxMzIwNywiZXhwIjoxNjkzODE2ODA3LCJzdWIiOiIxIn0.0_kEVq8OZWcww7Go91oUXG3WYbTkjUzzve5X-rurhx4
+
+###
+GET http://localhost:4000/posts/
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5MzgxMzIwNywiZXhwIjoxNjkzODE2ODA3LCJzdWIiOiIxIn0.0_kEVq8OZWcww7Go91oUXG3WYbTkjUzzve5X-rurhx4
+
+###
+GET http://localhost:4000/posts/?userId=2
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5MzgxMzIwNywiZXhwIjoxNjkzODE2ODA3LCJzdWIiOiIxIn0.0_kEVq8OZWcww7Go91oUXG3WYbTkjUzzve5X-rurhx4
+
+###
+GET http://localhost:4000/users/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5MzgxMzIwNywiZXhwIjoxNjkzODE2ODA3LCJzdWIiOiIxIn0.0_kEVq8OZWcww7Go91oUXG3WYbTkjUzzve5X-rurhx4
+
+###
+PATCH   http://localhost:4000/posts/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdnQGdtYWlsLmNvbSIsImlhdCI6MTY5NDA2NDQzOCwiZXhwIjoxNjk0MDY4MDM4LCJzdWIiOiIxIn0.GLfggsEZEMv-FGha8_dC0yaq3lPqTOjlswm6RICCh9c
+
+{
+  "likedBy": [1,2]
+}

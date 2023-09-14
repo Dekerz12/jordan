@@ -1,0 +1,295 @@
+{
+  "users": [
+    {
+      "email": "gg@gmail.com",
+      "password": "$2a$10$zKDGPb6y3d7e.yCY/Inn5e/MPYVgS4A7NaHQbMe6xoXdPK86Z0S8W",
+      "first_name": "Dan",
+      "last_name": "Sedrick",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "id": 1
+    },
+    {
+      "email": "gg4@gmail.com",
+      "password": "$2a$10$E7gnuPYdYpWf0ZIKNLFOr.yAplDTS2fxD8HaQpTz6zYOB9a0N2Ibe",
+      "first_name": "John",
+      "last_name": "Doe",
+      "avatar": "https://ui-avatars.com/api/?name=John+Doe",
+      "id": 3
+    },
+    {
+      "email": "gg2@gmail.com",
+      "password": "$2a$10$rL3drCYp3LRmanKmXY7hn.VZf/A6mHOclXoVJfb/Kz3VPlui/0D4a",
+      "first_name": "Dan Sedrick",
+      "last_name": "Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=Dan Sedrick+Reyes",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "name": "Dan Sedrick",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "title": "Air Jordan 1 Design",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, rerum.",
+      "imageURL": "https://izicop.com/cdn/shop/files/izicop_Air-Jordan-1-Mid-Split-Beach-Cherrywood-Red-Air-Jordan-1691857982398.png?v=1691857984",
+      "userId": 1,
+      "likedBy": [
+        4
+      ],
+      "id": 2
+    },
+    {
+      "description": "Good design",
+      "title": "Air Jordan 4",
+      "name": "Dan Sedrick",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 1,
+      "likedBy": [
+        4
+      ],
+      "id": 3
+    },
+    {
+      "description": "asdlkjaldkjasldkjasld",
+      "title": "New Design",
+      "name": "Dan Sedrick Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=undefined+undefined",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 4,
+      "likedBy": [
+        1
+      ],
+      "id": 4
+    },
+    {
+      "description": "asldkjakldjalskdjalskdjlaskdjalsd",
+      "title": "New Design",
+      "name": "Dan Sedrick Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=Dan Sedrick+Reyes",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 4,
+      "likedBy": [
+        4
+      ],
+      "id": 5
+    },
+    {
+      "description": "asdasdadasd",
+      "title": "adasd",
+      "name": "Dan Sedrick Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=Dan Sedrick+Reyes",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 4,
+      "likedBy": [
+        4
+      ],
+      "id": 6
+    },
+    {
+      "description": "adasdasdasdasd",
+      "title": "adasdasd",
+      "name": "Dan Sedrick Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=Dan Sedrick+Reyes",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 4,
+      "likedBy": [
+        1,
+        4
+      ],
+      "id": 7
+    },
+    {
+      "description": "asjkldhaksjdhaksd",
+      "title": "Air Jordan 1",
+      "name": "Dan Sedrick Reyes",
+      "avatar": "https://ui-avatars.com/api/?name=Dan Sedrick+Reyes",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 4,
+      "likedBy": [
+        4
+      ],
+      "id": 8
+    },
+    {
+      "description": "kjdf;asdkfj;aslkdfj;lasdf",
+      "title": "Air Jordan Design",
+      "name": "John Doe",
+      "avatar": "https://ui-avatars.com/api/?name=John+Doe",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 3,
+      "likedBy": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        1
+      ],
+      "id": 9
+    },
+    {
+      "description": "agik",
+      "title": "Bruh",
+      "name": "Dan Sedrick",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "imageURL": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "userId": 1,
+      "likedBy": [
+        1
+      ],
+      "id": 10
+    }
+  ],
+  "drafts": [
+    {
+      "title": "Untitled-480a2c40-647c-4885-b954-8a81fd67f63b",
+      "model": "air-jordan-4",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "name": "Base",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "rgb(86, 30, 203)"
+        },
+        {
+          "name": "Swoosh",
+          "color": "rgb(203, 198, 30)"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "rgb(92, 91, 66)"
+        },
+        {
+          "name": "Laces",
+          "color": "rgb(86, 30, 203)"
+        },
+        {
+          "name": "Plate",
+          "color": "black"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 1,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 1
+    },
+    {
+      "title": "Untitled-9d075b04-e637-4682-aeea-f7935db8b7b6",
+      "model": "air-jordan-1",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "rgb(86, 30, 203)"
+        },
+        {
+          "name": "Base",
+          "color": "black"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "black"
+        },
+        {
+          "name": "Laces",
+          "color": "black"
+        },
+        {
+          "name": "Plate",
+          "color": "black"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 1,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 2
+    },
+    {
+      "title": "Untitled-61866f88-6c3d-483b-ba99-745e582b617e",
+      "model": "air-jordan-4",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "rgb(62, 49, 90)"
+        },
+        {
+          "name": "Base",
+          "color": "black"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "black"
+        },
+        {
+          "name": "Laces",
+          "color": "black"
+        },
+        {
+          "name": "Plate",
+          "color": "black"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 1,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 3
+    }
+  ]
+}
